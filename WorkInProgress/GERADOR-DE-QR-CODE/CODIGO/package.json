@@ -1,0 +1,23 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "main": "dist/APP.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/APP.js",
+    "test": "npm run build && nodemon dist/APP.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.5",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.4.5"
+  }
+}

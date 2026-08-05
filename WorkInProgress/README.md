@@ -76,3 +76,5 @@ Desenvolva um gerador de QR Codes personalizado para e-commerces utilizando Node
 ###### Felipe Aguiar
 
 Tech Educator, DIO[**](https://web.dio.me/project/criando-um-gerador-de-qr-codes-para-e-commerces-com-nodejs/learning/www.linkedin.com/in/felipeaguiar-exe) [**](https://github.com/felipeAguiarCode)
+
+https://web.dio.me/lab/criando-um-gerador-de-qr-codes-para-e-commerces-com-nodejs/learning/341e12ec-42a0-47f4-ae41-382655ebb5c5?back=/track/jornada-para-o-futuro
